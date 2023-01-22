@@ -1,0 +1,8 @@
+>colores primarios
+ffff00,0000ff,ff0000
+>tonos azules
+cccccc,00ffff,389eb8,0000ff
+>tonos verdes
+00ff0b,4dff54,87ff8c,b8ffbb
+>arcoiris
+ff0000,ff9500,ffff00,62ff00,00fff2,0d00ff,a200ff
