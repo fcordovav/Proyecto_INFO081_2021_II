@@ -1,8 +1,3 @@
-# Felipe Córdova - 20.960.184-2
-# Sebastian Montecinos - 21.008.887-3
-# Rodrigo Erlandsen - 20.840.411-3
-# Cristián Cárdenas - 20.641.231-3
-
 import turtle as t
 import sys
 
