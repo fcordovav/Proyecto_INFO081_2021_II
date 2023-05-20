@@ -10,5 +10,5 @@ En sistemas basados en Ubuntu, este error significa que el módulo "tkinter" no 
 En sistemas basados en Debian/Ubuntu, puedes instalar tkinter ejecutando el siguiente comando en la terminal: sudo apt-get install python3-tk
 
 # PARA CLONAR EL REPOSITORIO
-Escribir en la consola: git clone https://github.com/PipeCordova/ProyectoProgra_INFO081_2021_II.git
+Escribir en la consola: git clone https://github.com/PipeCordova/Proyecto_INFO081_2021_II.git
 
